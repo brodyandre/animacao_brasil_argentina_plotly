@@ -60,7 +60,10 @@ A visualização apresenta:
 
 ## ▶️ Botão "Play" para iniciar a animação cronológica
 
-fig.write_html("imigracao_brasil_argentina.html")
+## 🌐 Visualizar Animação Interativa
+
+[![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://github.com/brodyandre/animacao_brasil_argentina_plotly/raw/main/imigracao_brasil_argentina.html)
+
 
 
 ### 📅 Eixo X com os anos de 1980 a 2013
