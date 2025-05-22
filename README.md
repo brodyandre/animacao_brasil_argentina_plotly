@@ -62,7 +62,7 @@ A visualização apresenta:
 
 ## 🌐 Visualizar Animação Interativa
 
-[![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://github.com/brodyandre/animacao_brasil_argentina_plotly/raw/main/imigracao_brasil_argentina.html)
+[![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://brodyandre.github.io/animacao_brasil_argentina_plotly/imigracao_brasil_argentina.html)
 
 
 
