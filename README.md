@@ -62,7 +62,9 @@ A visualização apresenta:
 
 ## 🌐 Visualizar Animação Interativa
 
-[![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://brodyandre.github.io/animacao_brasil_argentina_plotly/imigracao_brasil_argentina.html)
+Acesse a animação interativa comparando os dados de imigração do Brasil e da Argentina para o Canadá entre 1980 e 2013:
+
+[![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://brodyandre.github.io/animacao_brasil_argentina_plotly/)
 
 
 
