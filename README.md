@@ -64,6 +64,8 @@ A visualização apresenta:
 
 Acesse a animação interativa comparando os dados de imigração do Brasil e da Argentina para o Canadá entre 1980 e 2013:
 
+Clique no botão de animação abaixo. Será aberto uma nova janela identica a essa. Desça a pagina e clique novamente no mesmo botão de animação. Com isso a animação começará a se reproduzir
+
 [![Ver animação](https://img.shields.io/badge/Visualizar-Animação-green?style=for-the-badge&logo=plotly)](https://brodyandre.github.io/animacao_brasil_argentina_plotly/)
 
 
